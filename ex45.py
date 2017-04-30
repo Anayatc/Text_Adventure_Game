@@ -8,7 +8,6 @@ from random import randint
 from sys import exit
 
 
-
 class Scene(object):
 
     def enter(self):
